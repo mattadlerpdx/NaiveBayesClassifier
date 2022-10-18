@@ -6,7 +6,7 @@ spam/not spam emails. Each email has number of features (number of columns). Eac
 
 Algorithm:
 
-Compute the mean for each feature give a class (each column). Store features for each column in a spam/notSpam array.
+Compute the mean for each feature given a class (each column). Store features for each column in a spam/notSpam array.
 
 Compute mean probabilities(post-probablities) from GaussianNB formula: 
 
